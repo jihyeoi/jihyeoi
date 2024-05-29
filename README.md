@@ -11,7 +11,7 @@ Welcome to my Github! I'm JiHye, a solutions and detail-oriented full stack soft
 
 ### Jobly
 - full-stack application built with React frontend and a Node.js/Express backend
-- Authenticated users can view a list of companies / search for a specific company, and click into them for company-specific jobs. Once they find a job they like, they can apply for it, and see the list of their applied jobs. Loved diving deeper and playing around with all the modularity that came with reusable components via React!  
+- Authenticated users can view a list of companies / search for a specific company, and click into them for company-specific jobs. Once they find a job they like, they can apply for it, and see the list of their applied jobs. 
 - [Github Repository for the Node.js/Express backend](https://github.com/jihyeoi/express-jobly-backend)
 - [Github Repository for the React frontend](https://github.com/jihyeoi/react-jobly)
 
