@@ -15,7 +15,7 @@ Welcome to my Github! I'm JiHye, a solutions and detail-oriented full stack soft
 - [Github Repository for the Node.js/Express backend](https://github.com/jihyeoi/express-jobly-backend)
 - [Github Repository for the React frontend](https://github.com/jihyeoi/react-jobly)
 
-
+##
 🌱 I'm currently learning **Next.js** and using it to build a project called **Where's my Wegovy**, a user-driven app to help patients find pharmacy locations that have Wegovy in stock. This project was inspired by the many calls I've received at the pharmacy regarding its availability - the drug has been on backorder for over a year!
 
 📫 Here is my [LinkedIn](https://www.linkedin.com/in/jihyeoi/) if you'd like to know more! Feel free to reach out - I'd love to chat. 
